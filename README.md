@@ -1,4 +1,7 @@
-![Local Image](Teaser.png)
+<p align="center">
+  <img src="Teaser.png" width="200">
+</p>
+
 # Arabic Optical Character Recognition
 This work aims to build a powerful Arabic OCR system ✨ that uses cutting-edge open-source transformer models 🤖. The system reads and converts Arabic text from:
 
